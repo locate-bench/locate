@@ -34,24 +34,3 @@ Example dataset including features, `action_mapping.txt`, and `BT_action.json`, 
 ## Acknowledgments
 Acknowledge [AMASS](https://amass.is.tue.mpg.de/) and [BABEL](https://babel.is.tue.mpg.de/) Dataset.
 
-## References
-**[LocATe: End-to-end Localization of Actions in 3D with Transformers
-](https://arxiv.org/abs/2203.10719)**
-<br />
-[Jiankai Sun*](https://scholar.google.com/citations?user=726MCb8AAAAJ&hl=en), 
-[Linjiang Huang*](https://scholar.google.com/citations?user=j5rBSw0AAAAJ&hl=en), 
-[Hongsong Wang](https://scholar.google.com/citations?user=LzQnGacAAAAJ&hl=en),
-[Enze Xie](https://scholar.google.com/citations?user=42MVVPgAAAAJ&hl=en), 
-[Bolei Zhou](https://scholar.google.com/citations?user=9D4aG8AAAAAJ&hl=en),
-[Michael J Black](https://scholar.google.com/citations?user=6NjbexEAAAAJ&hl=en), and
-[Arjun Chandrasekaran](https://scholar.google.com/citations?user=i3Rs8GMAAAAJ&hl=en)
-<br />
-[[Paper]](https://arxiv.org/abs/2203.10719)
-```
-@article{sun2022locate,
-  title={LocATe: End-to-end Localization of Actions in 3D with Transformers},
-  author={Sun, Jiankai and Huang, Linjiang and Wang, Hongsong and Xie, Enze and Zhou, Bolei and Black, Michael J and Chandrasekaran, Arjun},
-  journal={arXiv preprint arXiv:2203.10719},
-  year={2022}
-}
-```
