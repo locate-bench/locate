@@ -31,6 +31,15 @@ unzip babel_tools/babel_v1-0_release.zip -d babel_tools/babel_v1-0_release
 $ python gen_benchmark.py
 ```
 Example dataset including features, `action_mapping.txt`, and `BT_action.json`, can be found in `BT_dataset`.
+
+## Run LocATe
+
+
+```bash
+cd src/locate/
+bash run_scripts/run_locate_full_pipeline.sh
+```
+
 ## Acknowledgments
 Acknowledge [AMASS](https://amass.is.tue.mpg.de/) and [BABEL](https://babel.is.tue.mpg.de/) Dataset.
 
