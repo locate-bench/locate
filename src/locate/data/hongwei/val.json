@@ -1,0 +1,121 @@
+{"1833": {
+    "babel_sid": 1833,
+    "url": "1-2-1104-Female2-0-smpl.mp4",
+    "feat_p": "1-2-1104-Female2-0-smpl-numpy/1-2-1104-Female2-0-smpl/numpy/",
+    "dur": 131.0,
+    "seq_ann": {
+      "babel_lid": "8b112ce1-2546-4675-9efa-27db9fcfee29",
+      "anntr_id": "c24c8ba1-f43d-48db-9f76-165d8264bda1",
+      "mul_act": true,
+      "labels": [
+        {
+          "raw_label": "walk back and forth",
+          "proc_label": "walk back and forth",
+          "seg_id": "3ca74412-f765-445b-b51b-6c2e72316010",
+          "act_cat": [
+            "walk",
+            "forward movement",
+            "backwards movement"
+          ]
+        }
+      ]
+    },
+    "frame_ann": {
+      "babel_lid": "aabf3b2d-c8c7-47ac-aa75-4621d262434e",
+      "anntr_id": "c0974846-d198-425d-846a-ce6808343841",
+      "mul_act": true,
+      "labels": [
+        {
+          "raw_label": "standing",
+          "proc_label": "stand",
+          "seg_id": "841150c3-030d-4369-a2e1-cf460f4a988a",
+          "act_cat": [
+            "stand"
+          ],
+          "start_t": 0,
+          "end_t": 0.341
+        },
+        {
+          "raw_label": "standing",
+          "proc_label": "stand",
+          "seg_id": "947c777d-ac8f-43f1-b2bf-08578293832e",
+          "act_cat": [
+            "stand"
+          ],
+          "start_t": 7.862,
+          "end_t": 8.3
+        },
+        {
+          "raw_label": "pacing",
+          "proc_label": "pace",
+          "seg_id": "59af352a-0f5e-446e-9690-18e5d1d9ebaf",
+          "act_cat": [
+            "walk"
+          ],
+          "start_t": 0.341,
+          "end_t": 7.862
+        }
+      ]
+    }
+  },
+  "9495": {
+    "babel_sid": 9495,
+    "url": "armchair001-stageII-smpl.mp4",
+    "feat_p": "armchair001-stageII-smpl-numpy/armchair001-stageII-smpl/numpy/",
+    "dur": 57.0,
+    "seq_ann": {
+      "babel_lid": "8b112ce1-2546-4675-9efa-27db9fcfee29",
+      "anntr_id": "c24c8ba1-f43d-48db-9f76-165d8264bda1",
+      "mul_act": true,
+      "labels": [
+        {
+          "raw_label": "walk back and forth",
+          "proc_label": "walk back and forth",
+          "seg_id": "3ca74412-f765-445b-b51b-6c2e72316010",
+          "act_cat": [
+            "walk",
+            "forward movement",
+            "backwards movement"
+          ]
+        }
+      ]
+    },
+    "frame_ann": {
+      "babel_lid": "aabf3b2d-c8c7-47ac-aa75-4621d262434e",
+      "anntr_id": "c0974846-d198-425d-846a-ce6808343841",
+      "mul_act": true,
+      "labels": [
+        {
+          "raw_label": "standing",
+          "proc_label": "stand",
+          "seg_id": "841150c3-030d-4369-a2e1-cf460f4a988a",
+          "act_cat": [
+            "stand"
+          ],
+          "start_t": 0,
+          "end_t": 0.341
+        },
+        {
+          "raw_label": "standing",
+          "proc_label": "stand",
+          "seg_id": "947c777d-ac8f-43f1-b2bf-08578293832e",
+          "act_cat": [
+            "stand"
+          ],
+          "start_t": 7.862,
+          "end_t": 8.3
+        },
+        {
+          "raw_label": "pacing",
+          "proc_label": "pace",
+          "seg_id": "59af352a-0f5e-446e-9690-18e5d1d9ebaf",
+          "act_cat": [
+            "walk"
+          ],
+          "start_t": 0.341,
+          "end_t": 7.862
+        }
+      ]
+    }
+  }
+}
